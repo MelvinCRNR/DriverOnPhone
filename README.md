@@ -20,7 +20,7 @@ J’ai préféré utiliser FastAi à Yolo, car, Yolo détecte les objets et, la 
 
 Afin d’entrainer notre algorithme, nous avons créer 2 dossiers possédants, pour le premier, d’automobilistes n’utilisant pas leur téléphone. Dans le second dossier, des automobilistes utilisant leur téléphone. Nous avons 50 photos dans chaque dossier. Ce nombre de photo est un peu léger pour bien entrainer l’algorithme mais s’avère suffisant. De plus, en termes de rapidité, 50 photos nous permet d’avoir un traitement et un entrainement rapide au moment de l’exécution. Un diagramme de répartition des données n’est pas pertinent dans notre cas car nous utilisons un nombre de données fixe.
 
-![Untitled](Driver%20On%20Phone%20f6273493baad4cf39fc3fd423b2cf7d7/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/43339150/211201802-0d03620f-e398-43b5-b1f9-df5ce7401f35.png)
 
 # Lancement de l’application via le NoteBook
 
