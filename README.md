@@ -26,7 +26,7 @@ Afin d’entrainer notre algorithme, nous avons créer 2 dossiers possédants, p
 
 Récupérer le dossier git. Ouvrer le grâce à un NoteBook et lancer les cellules du fichier driveronphone.ipynb. Une fois cela fait, pour changer de photo à tester, charger la photo voulu dans le dossier et préciser son nom dans la dernière cellule.
 
-![Untitled](Driver%20On%20Phone%20f6273493baad4cf39fc3fd423b2cf7d7/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/43339150/211201835-33194b50-8e1b-44c0-9fa7-0a69eb94fbc1.png)
 
 # Lancement de l’application avec Flask en local
 
@@ -73,11 +73,11 @@ Rendez-vous sur l’adresse suivante pour avoir accès à l’application :
 
 ### Photo
 
-![Untitled](Driver%20On%20Phone%20f6273493baad4cf39fc3fd423b2cf7d7/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/43339150/211201862-8c45a5dc-b767-4833-a818-e7357694119f.png)
 
 ### Résultat
 
-![Untitled](Driver%20On%20Phone%20f6273493baad4cf39fc3fd423b2cf7d7/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/43339150/211201890-5faa3e9b-fbe0-49f3-8aef-6f189561852c.png)
 
 ---
 
@@ -85,8 +85,8 @@ Rendez-vous sur l’adresse suivante pour avoir accès à l’application :
 
 ## Photo
 
-![Untitled](Driver%20On%20Phone%20f6273493baad4cf39fc3fd423b2cf7d7/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/43339150/211201900-42658d1a-9596-4797-b3e2-398f27e63150.png)
 
 ## Résultat
 
-![Untitled](Driver%20On%20Phone%20f6273493baad4cf39fc3fd423b2cf7d7/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/43339150/211201916-4fba6fe2-aab1-439d-a7ed-b2d10e23ab3e.png)
